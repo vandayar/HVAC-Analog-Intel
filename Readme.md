@@ -39,4 +39,3 @@ Traditional diagnostics require 30-45 minutes of manual lookup. HVAC-Intel reduc
 ---
 **Lead Architect:** Phartheeb Tanjore Kandasamy  
 **Domain:** Senior Technology Leadership | QE Transformation | AI Growth.
-**Profile:** https://github.com/vandayar/Phartheeb-Tanjore-Kandasamy
